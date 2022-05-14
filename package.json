@@ -30,7 +30,7 @@
     "lodash": "^4.17.21",
     "next-js-codemod": "^1.0.2",
     "readdirp": "^3.6.0",
-    "yargs": "^3.31.0"
+    "yargs": "^13.2.4"
   },
   "files": []
 }
