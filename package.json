@@ -28,7 +28,7 @@
     "colors": "^1.1.2",
     "core-js": "^3.21.1",
     "fs-extra": "^10.0.1",
-    "jscodeshift": "^0.13.1",
+    "jscodeshift": "^0.15.1",
     "next-js-codemod": "^1.0.2",
     "readdirp": "^3.6.0",
     "yargs": "^17.3.1"
